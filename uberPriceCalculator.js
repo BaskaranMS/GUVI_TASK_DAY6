@@ -26,3 +26,6 @@ class UberPriceCalculator {
   
   console.log(`Total Uber price: $${totalPrice.toFixed(2)}`);
   
+
+  //output
+  // Total Uber Price: $23.00

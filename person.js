@@ -59,3 +59,24 @@ class Person {
   console.log('\n----------------\n');
   person2.displayDetails();
   
+
+//output
+// Name: John Doe
+// Age: 30
+// Gender: Male
+// Address: 123 Main St       
+// Phone Number: 555-1234     
+// Email: john.doe@example.com
+// Hobbies: Reading, Traveling
+// Friends: Jane Smith        
+
+// ----------------
+
+// Name: Jane Smith
+// Age: 25
+// Gender: Female
+// Address: 456 Oak St
+// Phone Number: 555-5678
+// Email: jane.smith@example.com
+// Hobbies: Painting, Hiking
+// Friends: John Doe
